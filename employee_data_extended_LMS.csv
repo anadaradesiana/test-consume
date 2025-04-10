@@ -1,0 +1,10 @@
+^UserId,dateOfBirth,function,citizenship,nationality,ethnicity,businessSegment,talentPool,level,ssn
+00050001,01/01/1980,J1,,Indonesia,"",Lajang,,,Aliran Kepercayaan
+00050002,01/01/1990,KontrakPensiun,Ampenan,Indonesia,"",Kawin,,,Islam
+00050004,01/01/1950,AM,,Ireland,"",Lajang,,,Islam
+00050014,01/01/1990,SPV,Jakarta,Indonesia,"Timor Timur",Kawin,,"DIVISI SUMBER DAYA MANUSIA",Budha
+00050016,01/01/1990,SPV,,Indonesia,"",Kawin,February,"KANTOR CABANG UTAMA BOGOR",Hindu
+00050019,01/01/1990,S1,Aileu,Indonesia,"",Kawin,,,Katholik
+00050021,01/01/1990,SPV,Aileu,Indonesia,"Ambon (Maluku)",Kawin,,,Katholik
+00050024,01/01/1990,S1,Ambarawa,Indonesia,"Wolio (Sul-Tra)",Kawin,February,"KANTOR CABANG UTAMA BANDUNG",Islam
+00050027,01/01/1975,PM,,Indonesia,"",Kawin,February,,Islam
